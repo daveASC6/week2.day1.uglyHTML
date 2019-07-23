@@ -1,0 +1,14 @@
+html{
+    background-color: rgb(53, 53, 53);
+    color: whitesmoke
+}
+header{
+    font-family: 'Tangerine', cursive;
+    font-size: 72px
+}
+
+.top{
+   
+    text-align: center;
+    width :center;
+}
